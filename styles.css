@@ -131,9 +131,6 @@
  padding: 20px 10px 0px;
  justify-content: space-between;
 }
-.logo-img{
- height: 100px;
-}
 .contact-info{
  gap: 30px;
  display: flex;
@@ -1012,9 +1009,6 @@
  align-self: center;
  margin: 15px auto 35px;
  justify-content: space-between;
-}
-.footer-logo-img{
- height: 80px;
 }
 .footer-social{
  display: flex;
