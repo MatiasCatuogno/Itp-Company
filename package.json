@@ -1,0 +1,20 @@
+{
+ "version": "1.0.0",
+ "name": "itp-company",
+ "author": "Englebert Biassini Oreste Fernando",
+ "description": "Especialistas en mudanzas de laboratorios. Trasladamos equipos con máxima seguridad y profesionalismo. Más de 200 clientes confían en ITP Company. Solicite su presupuesto sin cargo hoy mismo.",
+ "license": "ISC",
+ "main": "index.js",
+ "keywords": [
+  "itp",
+  "itp-company",
+  "ingentecpharma",
+  "mudanzas de laboratorio",
+  "laboratorios",
+  "fernando englebert",
+  "fernando englebert itp"
+ ],
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ }
+}
