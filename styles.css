@@ -206,9 +206,6 @@
  background-color: #ededed;
 }
 /* Principal Section */
-.background-color-2{
- background: white;
-}
 .banner-section{
  background: linear-gradient(to right, #038ed3, #57c84d);
 }
@@ -374,9 +371,6 @@
  background-color: #0088cc;
 }
 /* Planificación y proceso */
-.background-color-4{
- background-color: white;
-}
 .process-section{
  width: 60%;
  display: flex;
@@ -384,6 +378,7 @@
  padding: 50px 20px;
  align-items: center;
  justify-content: center;
+ background-color: white;
 }
 .process-div-container{
  max-width: 100%;
@@ -779,9 +774,6 @@
  margin-right: 10px;
 }
 /* Formulario y Mapa */
-.background-color-7{
- background-color: white;
-}
 .contacto-section{
  gap: 50px;
  width: 60%;
