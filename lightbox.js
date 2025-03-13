@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
  document.querySelectorAll(".trabajo-item").forEach((item) => {
   item.addEventListener("click", function () {
-   const mainImg = item.querySelector(".trabajo-item-img").src;
+   const mainImg = item.querySelector(".trabajo-item img").src;
    const additionalImgs = Array.from(item.querySelectorAll(".additional-images img")).map((img) => img.src);
    currentImages = [mainImg, ...additionalImgs];
    currentImgIndex = 0;
