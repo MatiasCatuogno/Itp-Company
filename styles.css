@@ -684,6 +684,8 @@
  max-width: 80%;
  max-height: 80%;
  border-radius: 10px;
+ border: 15px solid white;
+ box-shadow: 0px 15px 25px rgb(0, 0, 0, 0.5)
 }
 .prev-btn, .next-btn {
  top: 50%;
