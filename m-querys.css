@@ -143,7 +143,11 @@
   display: none;
  }
  .banner-section{
-  display: none;
+  border-top: 50px solid white;
+ }
+ .banner-eslogan{
+  margin: 0px auto;
+  padding: 130px 0px 130px;
  }
  .services-section{
   width: 80%;
@@ -187,6 +191,16 @@
   top: 88%;
  }
 }
+@media screen and (max-width: 764px) {
+ .banner-eslogan{
+  font-size: 30px;
+ }
+}
+@media screen and (max-width: 716px) {
+ .banner-eslogan{
+  font-size: 28px;
+ }
+}
 @media screen and (max-width: 692px) {
  .servicio-card-h4{
   font-weight: 1;
@@ -212,6 +226,11 @@
   max-width: 150px;
  }
 }
+@media screen and (max-width: 668px) {
+ .banner-eslogan{
+  font-size: 26px;
+ }
+}
 @media screen and (max-width: 640px) {
  .process-container-1024px-1, .process-container-reverse-1024px-2{
   display: none;
@@ -223,9 +242,19 @@
   grid-template-columns: 1fr;
  }
 }
+@media screen and (max-width: 620px) {
+ .banner-eslogan{
+  font-size: 24px;
+ }
+}
 @media screen and (max-width: 575px) {
  .prev-btn, .next-btn {
   font-size: 25px;
+ }
+}
+@media screen and (max-width: 572px) {
+ .banner-eslogan{
+  font-size: 22px;
  }
 }
 @media screen and (max-width: 525px) {
@@ -236,6 +265,9 @@
  }
  .section-header{
   padding: 20px 5px;
+ }
+ .banner-eslogan{
+  font-size: 20px;
  }
  .prev-btn, .next-btn {
   font-size: 20px;
@@ -288,6 +320,11 @@
   width: 100%;
  }
 }
+@media screen and (max-width: 477px) {
+ .banner-eslogan{
+  font-size: 18px;
+ }
+}
 @media screen and (max-width: 475px) {
  .section-header{
   padding: 20px 5px;
@@ -302,6 +339,11 @@
 @media screen and (max-width: 439px) {
  .main-section-h1{
   font-size: 30px;
+ }
+}
+@media screen and (max-width: 429px) {
+ .banner-eslogan{
+  font-size: 16px;
  }
 }
 @media screen and (max-width: 425px) {
@@ -334,6 +376,11 @@
   font-size: 28px;
  }
 }
+@media screen and (max-width: 381px) {
+ .banner-eslogan{
+  font-size: 14px;
+ }
+}
 @media screen and (max-width: 376px) {
  .services-section-h2{
   font-size: 32px;
@@ -360,6 +407,11 @@
 @media screen and (max-width: 341px) {
  .main-section-h1{
   font-size: 25px;
+ }
+}
+@media screen and (max-width: 334px) {
+ .banner-eslogan{
+  font-size: 13px;
  }
 }
 @media screen and (max-width: 327px) {
